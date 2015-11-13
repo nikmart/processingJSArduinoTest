@@ -1,0 +1,15 @@
+{
+  "name": "processingJSTest",
+  "version": "0.0.0",
+  "description": "processingJs + Arduino Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "serialport": "",
+    "express": "",
+    "socket.io": ""
+  }
+}
